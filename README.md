@@ -2,8 +2,9 @@
 
 <!-- Banner / Header -->
 <div align="center">
-<!-- Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arvind%20Kokane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%26%20REST%20APIs&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arvind+Kokane;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)
+
 </div>
 
 ---
