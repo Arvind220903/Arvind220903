@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Banner / Header -->
+<div align="center">
+<!-- Banner / Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arvind%20Kokane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%26%20REST%20APIs&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
-
 </div>
 
 ---
