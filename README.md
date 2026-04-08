@@ -44,7 +44,7 @@ public class Arvind extends Developer {
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/Arvind220903/images/main/Screenshot%202026-04-08%20101306.png](https://github.com/Arvind220903/images/blob/main/Screenshot%20(178).png)" alt="LeetCode Stats" width="85%" style="border-radius:12px;" />
+<img src="https://github.com/Arvind220903/images/blob/main/Screenshot%20(178).png" alt="LeetCode Stats" width="85%" style="border-radius:12px;" />
 
 </div>
 
