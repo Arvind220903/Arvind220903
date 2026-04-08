@@ -44,13 +44,12 @@ public class Arvind extends Developer {
 
 <div align="center">
 
-<img [src="https://raw.githubusercontent.com/Arvind220903/Arvind220903/main/leetcode-stats.png](https://github.com/Arvind220903/images/blob/main/Screenshot%202026-04-08%20101306.png)" alt="LeetCode Stats" width="85%" style="border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/Arvind220903/images/main/Screenshot%202026-04-08%20101306.png" alt="LeetCode Stats" width="85%" style="border-radius:12px;" />
 
 </div>
 
 > 🏆 **Contest Rating: 1541** | 🌍 **Global Rank: 287,946 / 863,486** | 🔥 **Max Streak: 57 days**  
-> ✅ Easy: 150 | 🟡 Med: 178 | 🔴 Hard: 10 | 📈 41.95% Acceptance | 🗓️ 162 Active Days
-
+> ✅ Easy: 150 | 🟡 Med: 178 | 🔴 Hard: 10 | 📈 338 solved | 🗓️ 162 Active Days
 ---
 
 ## 🚀 Featured Projects
